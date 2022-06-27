@@ -1,4 +1,4 @@
-var myName: string;
+// var myName: string;
 // console.log(myName);
 // console.log(typeof myName);
 
